@@ -7,11 +7,11 @@ import "slick-carousel/slick/slick-theme.css";
 
 // Sample carousel images (mix of portrait & landscape)
 const images = [
-  { id: 1, src: "/book1.jpg", alt: "Bookstore Interior" },
-  { id: 2, src: "/bookstore2.jpg", alt: "Stack of Books" },
-  { id: 3, src: "/bookstore3.jpg", alt: "Reading Area" },
-  { id: 4, src: "/bookstore4.jpg", alt: "Library Shelf" },
-  { id: 5, src: "/bookstore5.jpg", alt: "Book Fair" },
+  { id: 1, src: "/React_BookStore_MUI/book1.jpg", alt: "Bookstore Interior" },
+  { id: 2, src: "/React_BookStore_MUI/bookstore2.jpg", alt: "Stack of Books" },
+  { id: 3, src: "/React_BookStore_MUI/bookstore3.jpg", alt: "Reading Area" },
+  { id: 4, src: "/React_BookStore_MUI/bookstore4.jpg", alt: "Library Shelf" },
+  { id: 5, src: "/React_BookStore_MUI/bookstore5.jpg", alt: "Book Fair" },
 ];
 
 const Home = () => {
